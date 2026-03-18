@@ -20,7 +20,7 @@ including signal strength, security type, BSSID, and channel.
 - No extra libraries needed (uses built-in system commands)
 
 ## Usage
-# Windows
+#Windows:
 python wifi_analyzer.py
 
 # Linux
